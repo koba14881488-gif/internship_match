@@ -1,43 +1,4 @@
-b7## Internship Matching Platform
 
-A Django-based web application that connects **students** with **companies** offering internship opportunities.  
-Includes features for:
-- Student & Company Registration
-- Profile Management
-- Internship Applications
-- PDF Receipts & Email Notifications
-- Role-based Dashboards (Student / Company)
-- Admin Management
-- Dockerized Deployment with Nginx & PostgreSQL
-
----
-
-## Features
- Student & company authentication  
-Internship application management  
-PDF receipt generation & email sending  
-Profile photo & bio support  
-Filter & search for opportunities  
-Export data to Excel  
-Docker + Nginx production-ready setup  
-
----
-
-## Tech Stack
-- **Backend**: Django 4.x
-- **Frontend**: Bootstrap 5
-- **Database**: PostgreSQL
-- **Deployment**: Docker, Nginx, Gunicorn
-- **Other**: Pandas, xhtml2pdf, Pillow
-
----
-
-## Installation (Local Development)
-
-###  Clone the repository
-```bash
-git clone https://github.com/yourusername/internship_platform.git
-cd internship_platform
 
 
  Create a virtual environment
