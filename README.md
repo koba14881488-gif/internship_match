@@ -1,4 +1,4 @@
-## Internship Matching Platform
+7## Internship Matching Platform
 
 A Django-based web application that connects **students** with **companies** offering internship opportunities.  
 Includes features for:
